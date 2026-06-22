@@ -58,13 +58,14 @@ I approach every project with empathy for the user. By combining **Data-Driven R
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisnarcisodh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=F85D7F" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisnarcisodh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisnarcisodh&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
-</div>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luisnarcisodh&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 
 
