@@ -1,11 +1,7 @@
 
 <div align="center">
 
-<img width="1000" height="250" alt="Luis Narciso Huevos (3)" src="https://github.com/user-attachments/assets/63dfbb18-98b0-40c3-9890-3bb9948857f4" />
-
-  <h1>Hi, I'm Luis Narciso</h1>
-  <h3>UI/UX Designer</h3>
-
+<img width="1000" height="250" alt="Luis Narciso Huevos (4)" src="https://github.com/user-attachments/assets/27e62656-709b-4ae6-b6fc-84c997d356af" />
 
   <p>
     Translating complex problems into elegant, user-centric, and accessible designs. 
