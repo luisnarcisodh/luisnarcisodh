@@ -1,7 +1,7 @@
+
 <div align="center">
 
-  <img width="1000" height="250" alt="Luis Narciso Huevos (2)" src="https://github.com/user-attachments/assets/5d806153-a530-47e4-b6a0-8a9e5f5b17cf" />
-
+<img width="1000" height="250" alt="Luis Narciso Huevos (3)" src="https://github.com/user-attachments/assets/63dfbb18-98b0-40c3-9890-3bb9948857f4" />
 
   <h1>Hi, I'm Luis Narciso</h1>
   <h3>UI/UX Designer</h3>
