@@ -4,7 +4,7 @@
 
 
   <h1>Hi, I'm Luis Narciso</h1>
-  <h3>Aspiring UI/UX Designer</h3>
+  <h3>UI/UX Designer</h3>
 
 
   <p>
